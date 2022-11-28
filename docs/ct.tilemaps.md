@@ -34,7 +34,7 @@ Argument | Type | Description
 
 ### `ct.tilemaps.cacheDiamond(tilemap, chunkSize)`
 
-Enables caching on this tileset, freezing it and turning it into a series of bitmap textures. This proides great speed boost, but prevents further editing.
+Enables caching on this tileset, freezing it and turning it into a series of bitmap textures. This provides a great boost in speed, but prevents further editing.
 
 This version packs tiles into rhombus-shaped chunks, and sorts them from top to bottom. This fixes seam issues for isometric games.
 
